@@ -1,3 +1,12 @@
+#Description
+
+This project can be used to track the list of anything you want
+Right now, I'm using this project to cover the list of twitter accounts to follow to get great content on Web3
+It has 3 main features :
+  1. Heart - If you specifically love a creator, you can heart them
+  2. Deelete - If you want to delete any name from the list
+  3. Update - If you have mistakenly enetered a wrong name, you can edit it as well.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
